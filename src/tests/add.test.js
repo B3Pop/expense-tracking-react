@@ -13,3 +13,4 @@ test('should display greeting with name', () => {
     const result = generateGreeting();
     expect(result).toBe('Hello Anonymous!');
 });
+
